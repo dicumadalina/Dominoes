@@ -1,6 +1,6 @@
-# Dominoes
+# Dominoes - **JetBrains Academy**
 [...]
-Objectives
+**Objectives**
 Add the following functionality to your code. When it's a player's turn, the program should:
 
 1.Verify that the move entered by the player is legal (requirement #1).
